@@ -1,0 +1,45 @@
+@import url('https://fonts.googleapis.com/css2?family=Libre+Baskerville&display=swap');
+body{
+    
+    margin: 0;
+    padding: 0;
+    background: url(https://thumbs.gfycat.com/AchingSilkyFoal-size_restricted.gif);
+    background-size: cover;
+    font-family: 'Libre Baskerville', serif;
+}
+.center{
+    
+    position:sticky;
+    top: 40%;
+    left: 50%;
+    transform: translate(-50%,-50%);
+    background: url(https://www.aaltufaaltu.com/wp-content/uploads/2021/10/happy-dussehra-gif.gif);
+    background-size:contain;
+    width: 500px;
+    height: 500px;
+    border: 9px solid #fff;
+    border-radius: 80%;
+        
+}
+h1{
+    margin: 0;
+    padding: 0;
+    position: absolute;
+    width: 100%;
+    text-align: center;
+    bottom: 18%;
+    color:crimson;
+    font-size: 4.8em;
+    text-shadow: 0 10px 20px rgba(0,0,0,.5);
+}
+p{
+    margin: 0;
+    padding: 0;
+    position: absolute;
+    width: 100%;
+    text-align: center;
+    bottom:7%;
+    color:darkorange;
+    font-size: 2.5em;
+    
+}
